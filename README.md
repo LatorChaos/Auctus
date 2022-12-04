@@ -15,3 +15,4 @@ Usage Instructions
 6. If the script has set brick_resources_low to True, then it will be normal for it to crash if it doesn't have enough to send
 7. I recommend not engaging this script wrecklessly and not starting it too close to a turn change as it will fail if it runs into a turn change
 9. Give praise
+ 
