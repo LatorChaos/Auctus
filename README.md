@@ -1,6 +1,8 @@
 # Auctus
 A resource and warchest automation, production calculation, and auditing script for the MMO Politics &amp; War
 
+![imperial gelt](https://user-images.githubusercontent.com/119812496/205515999-a0faa8c4-7b81-4f22-974f-cf998eb03a6f.png)
+
 Usage Instructions
 1. Install Python https://www.python.org/downloads/
 2. Open cmd.exe and use pip to install the dependences
